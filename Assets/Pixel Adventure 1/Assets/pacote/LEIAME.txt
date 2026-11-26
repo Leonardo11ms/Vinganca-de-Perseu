@@ -1,0 +1,21 @@
+PACOTE DE CENARIO - 2D PIXEL ART
+================================
+Resolucao base do jogo sugerida: 320x180 (escala inteira 2x/3x/4x na tela).
+Todos os PNGs devem ser importados com filtro NEAREST (sem suavizacao).
+
+backgrounds/  5 cenarios completos, 320x180 (Olymeria dia/entardecer/noite, ruinas, castelo Moloch)
+parallax/     montanhas, florestas e ruinas: 144px de altura, *_loop.png = espelhados, repetem sem emenda na horizontal
+              ceu_*: 320x180
+plataformas/  4 plataformas flutuantes (~50px de largura)
+detalhes/     pedra, coluna, arvore, cerca
+vegetacao/    grama, arbustos, trepadeira
+objetos/      bandeira, estandarte, lanterna, fogueira, caixote, barril, carrinho
+cidade/       muro, janela, telhado, pilar
+floresta_fg/  troncos, raiz, folhas e cogumelos
+ruinas_fg/    arco, parede, pilar, chao de ruinas
+especiais/    fumaca escura, energia Moloch, portal, correntes
+atlas/        todos os sprites de foreground em 1 PNG (256px de largura) + JSON com x,y,w,h
+
+Sprites de foreground: fundo transparente, escala pensada para personagem de ~32px de altura.
+Fumaca escura usa transparencia em 4 niveis (efeito/overlay).
+Origem: recortados e redimensionados da prancha enviada (resolucao original baixa).

@@ -1,0 +1,261 @@
+{
+ "arvore": {
+  "categoria": "detalhes",
+  "x": 1,
+  "y": 1,
+  "w": 44,
+  "h": 45
+ },
+ "coluna": {
+  "categoria": "detalhes",
+  "x": 46,
+  "y": 1,
+  "w": 22,
+  "h": 45
+ },
+ "plataforma_04": {
+  "categoria": "plataformas",
+  "x": 69,
+  "y": 1,
+  "w": 48,
+  "h": 44
+ },
+ "pedra": {
+  "categoria": "detalhes",
+  "x": 118,
+  "y": 1,
+  "w": 40,
+  "h": 42
+ },
+ "plataforma_03": {
+  "categoria": "plataformas",
+  "x": 159,
+  "y": 1,
+  "w": 55,
+  "h": 36
+ },
+ "fumaca_escura": {
+  "categoria": "especiais",
+  "x": 1,
+  "y": 47,
+  "w": 49,
+  "h": 35
+ },
+ "trepadeira": {
+  "categoria": "vegetacao",
+  "x": 51,
+  "y": 47,
+  "w": 13,
+  "h": 33
+ },
+ "bandeira": {
+  "categoria": "objetos",
+  "x": 65,
+  "y": 47,
+  "w": 24,
+  "h": 33
+ },
+ "estandarte": {
+  "categoria": "objetos",
+  "x": 90,
+  "y": 47,
+  "w": 26,
+  "h": 33
+ },
+ "janela": {
+  "categoria": "cidade",
+  "x": 117,
+  "y": 47,
+  "w": 20,
+  "h": 33
+ },
+ "pilar": {
+  "categoria": "cidade",
+  "x": 138,
+  "y": 47,
+  "w": 16,
+  "h": 33
+ },
+ "tronco_01": {
+  "categoria": "floresta_fg",
+  "x": 155,
+  "y": 47,
+  "w": 24,
+  "h": 32
+ },
+ "tronco_02": {
+  "categoria": "floresta_fg",
+  "x": 180,
+  "y": 47,
+  "w": 36,
+  "h": 32
+ },
+ "arco": {
+  "categoria": "ruinas_fg",
+  "x": 217,
+  "y": 47,
+  "w": 36,
+  "h": 32
+ },
+ "ruinas_pilar": {
+  "categoria": "ruinas_fg",
+  "x": 1,
+  "y": 83,
+  "w": 26,
+  "h": 32
+ },
+ "portal": {
+  "categoria": "especiais",
+  "x": 28,
+  "y": 83,
+  "w": 34,
+  "h": 32
+ },
+ "energia_moloch": {
+  "categoria": "especiais",
+  "x": 63,
+  "y": 83,
+  "w": 30,
+  "h": 30
+ },
+ "correntes": {
+  "categoria": "especiais",
+  "x": 94,
+  "y": 83,
+  "w": 18,
+  "h": 29
+ },
+ "carrinho": {
+  "categoria": "objetos",
+  "x": 113,
+  "y": 83,
+  "w": 43,
+  "h": 28
+ },
+ "telhado": {
+  "categoria": "cidade",
+  "x": 157,
+  "y": 83,
+  "w": 39,
+  "h": 28
+ },
+ "folhas_cogumelos": {
+  "categoria": "floresta_fg",
+  "x": 197,
+  "y": 83,
+  "w": 43,
+  "h": 28
+ },
+ "raiz": {
+  "categoria": "floresta_fg",
+  "x": 1,
+  "y": 116,
+  "w": 34,
+  "h": 28
+ },
+ "barril": {
+  "categoria": "objetos",
+  "x": 36,
+  "y": 116,
+  "w": 16,
+  "h": 26
+ },
+ "ruinas_parede": {
+  "categoria": "ruinas_fg",
+  "x": 53,
+  "y": 116,
+  "w": 50,
+  "h": 26
+ },
+ "plataforma_01": {
+  "categoria": "plataformas",
+  "x": 104,
+  "y": 116,
+  "w": 55,
+  "h": 25
+ },
+ "plataforma_02": {
+  "categoria": "plataformas",
+  "x": 160,
+  "y": 116,
+  "w": 52,
+  "h": 25
+ },
+ "lanterna": {
+  "categoria": "objetos",
+  "x": 213,
+  "y": 116,
+  "w": 16,
+  "h": 25
+ },
+ "tronco_03": {
+  "categoria": "floresta_fg",
+  "x": 1,
+  "y": 145,
+  "w": 38,
+  "h": 25
+ },
+ "fogueira": {
+  "categoria": "objetos",
+  "x": 40,
+  "y": 145,
+  "w": 25,
+  "h": 24
+ },
+ "arbusto_01": {
+  "categoria": "vegetacao",
+  "x": 66,
+  "y": 145,
+  "w": 34,
+  "h": 23
+ },
+ "cerca": {
+  "categoria": "detalhes",
+  "x": 101,
+  "y": 145,
+  "w": 37,
+  "h": 22
+ },
+ "caixote": {
+  "categoria": "objetos",
+  "x": 139,
+  "y": 145,
+  "w": 22,
+  "h": 22
+ },
+ "muro": {
+  "categoria": "cidade",
+  "x": 162,
+  "y": 145,
+  "w": 38,
+  "h": 21
+ },
+ "arbusto_02": {
+  "categoria": "vegetacao",
+  "x": 201,
+  "y": 145,
+  "w": 30,
+  "h": 20
+ },
+ "ruinas_chao": {
+  "categoria": "ruinas_fg",
+  "x": 1,
+  "y": 171,
+  "w": 50,
+  "h": 18
+ },
+ "grama_01": {
+  "categoria": "vegetacao",
+  "x": 52,
+  "y": 171,
+  "w": 22,
+  "h": 15
+ },
+ "grama_02": {
+  "categoria": "vegetacao",
+  "x": 75,
+  "y": 171,
+  "w": 24,
+  "h": 14
+ }
+}

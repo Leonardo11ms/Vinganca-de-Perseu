@@ -1,0 +1,1198 @@
+fileFormatVersion: 2
+guid: 47718e9d8a4713543b218132097183ed
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2453294794497684714
+    second: cenario_foreground_atlas_0
+  - first:
+      213: 5252666757394526173
+    second: cenario_foreground_atlas_1
+  - first:
+      213: 4723653866708347032
+    second: cenario_foreground_atlas_2
+  - first:
+      213: 3256199894313027952
+    second: cenario_foreground_atlas_3
+  - first:
+      213: -4178744659266945535
+    second: cenario_foreground_atlas_4
+  - first:
+      213: 3194859884958881897
+    second: cenario_foreground_atlas_5
+  - first:
+      213: -6619311370206496787
+    second: cenario_foreground_atlas_6
+  - first:
+      213: 1693764591135926069
+    second: cenario_foreground_atlas_7
+  - first:
+      213: 18056500011177845
+    second: cenario_foreground_atlas_8
+  - first:
+      213: -7375878560108952166
+    second: cenario_foreground_atlas_9
+  - first:
+      213: -1009961171418851045
+    second: cenario_foreground_atlas_10
+  - first:
+      213: 4763918556228518591
+    second: cenario_foreground_atlas_11
+  - first:
+      213: -199716674205010170
+    second: cenario_foreground_atlas_12
+  - first:
+      213: 8264208118904309201
+    second: cenario_foreground_atlas_13
+  - first:
+      213: -2193507055035512490
+    second: cenario_foreground_atlas_14
+  - first:
+      213: 9086157976699575725
+    second: cenario_foreground_atlas_15
+  - first:
+      213: -6312675358213019115
+    second: cenario_foreground_atlas_16
+  - first:
+      213: 7309023640018746150
+    second: cenario_foreground_atlas_17
+  - first:
+      213: 1763017490435967426
+    second: cenario_foreground_atlas_18
+  - first:
+      213: -4811755822112085600
+    second: cenario_foreground_atlas_19
+  - first:
+      213: -3011082441238558847
+    second: cenario_foreground_atlas_20
+  - first:
+      213: 1751463266890084700
+    second: cenario_foreground_atlas_21
+  - first:
+      213: 294200644615676535
+    second: cenario_foreground_atlas_22
+  - first:
+      213: -2892387030563839763
+    second: cenario_foreground_atlas_23
+  - first:
+      213: -3744842725403994215
+    second: cenario_foreground_atlas_24
+  - first:
+      213: -920876616256909991
+    second: cenario_foreground_atlas_25
+  - first:
+      213: -3040292881762230128
+    second: cenario_foreground_atlas_26
+  - first:
+      213: 3333638616365644808
+    second: cenario_foreground_atlas_27
+  - first:
+      213: 193682729228538198
+    second: cenario_foreground_atlas_28
+  - first:
+      213: 5115370402086323018
+    second: cenario_foreground_atlas_29
+  - first:
+      213: 2153810385233624849
+    second: cenario_foreground_atlas_30
+  - first:
+      213: 3296563352558054221
+    second: cenario_foreground_atlas_31
+  - first:
+      213: -8551089221740646945
+    second: cenario_foreground_atlas_32
+  - first:
+      213: 8518824128555430310
+    second: cenario_foreground_atlas_33
+  - first:
+      213: 1782101533984521899
+    second: cenario_foreground_atlas_34
+  - first:
+      213: 3373037487317084291
+    second: cenario_foreground_atlas_35
+  - first:
+      213: 1759862183796123158
+    second: cenario_foreground_atlas_36
+  - first:
+      213: 2884646857522342978
+    second: cenario_foreground_atlas_37
+  - first:
+      213: -5132769805192511166
+    second: cenario_foreground_atlas_38
+  - first:
+      213: -953458653586148091
+    second: cenario_foreground_atlas_39
+  - first:
+      213: 8599174361404046981
+    second: cenario_foreground_atlas_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cenario_foreground_atlas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 154
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae479531e9adb0220800000000000000
+      internalID: 2453294794497684714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario_foreground_atlas_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 143
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddfe006069835e840800000000000000
+      internalID: 5252666757394526173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario_foreground_atlas_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 144
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8982d0f2a2acd8140800000000000000
+      internalID: 4723653866708347032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario_foreground_atlas_3
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 161
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07941324d88503d20800000000000000
+      internalID: 3256199894313027952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario_foreground_atlas_4
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 155
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e35515fdd1206c0800000000000000
+      internalID: -4178744659266945535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario_foreground_atlas_5
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 146
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9689e16632c665c20800000000000000
+      internalID: 3194859884958881897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario_foreground_atlas_6
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 152
+        width: 57
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de73321216b7324a0800000000000000
+      internalID: -6619311370206496787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario_foreground_atlas_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 107
+        width: 46
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537aac3fbe5718710800000000000000
+      internalID: 1693764591135926069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario_foreground_atlas_8
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 143
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5779d058a46204000800000000000000
+      internalID: 18056500011177845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario_foreground_atlas_9
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 109
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a954946578d93a990800000000000000
+      internalID: -7375878560108952166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario_foreground_atlas_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 109
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1954a46aa5ebf1f0800000000000000
+      internalID: -1009961171418851045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario_foreground_atlas_11
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 109
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb284e2cfa6dc1240800000000000000
+      internalID: 4763918556228518591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario_foreground_atlas_12
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 109
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607b9423eb67a3df0800000000000000
+      internalID: -199716674205010170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario_foreground_atlas_13
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 109
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5c03d9f7d50b270800000000000000
+      internalID: 8264208118904309201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario_foreground_atlas_14
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 110
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6598b4484f81f81e0800000000000000
+      internalID: -2193507055035512490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario_foreground_atlas_15
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 110
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad924e0a84881e70800000000000000
+      internalID: 9086157976699575725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario_foreground_atlas_16
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 110
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ae95b253fd468a0800000000000000
+      internalID: -6312675358213019115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario_foreground_atlas_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 74
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62bff36964ede6560800000000000000
+      internalID: 7309023640018746150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario_foreground_atlas_18
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 74
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c98c32111f777810800000000000000
+      internalID: 1763017490435967426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario_foreground_atlas_19
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 76
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a96715d295393db0800000000000000
+      internalID: -4811755822112085600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario_foreground_atlas_20
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 77
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1874f8c197c7636d0800000000000000
+      internalID: -3011082441238558847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario_foreground_atlas_21
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 78
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51f024cf827e4810800000000000000
+      internalID: 1751463266890084700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario_foreground_atlas_22
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 78
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77222037de5351400800000000000000
+      internalID: 294200644615676535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario_foreground_atlas_23
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 78
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de0ab4af15d2cd7d0800000000000000
+      internalID: -2892387030563839763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario_foreground_atlas_24
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 78
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997d69cd165a70cc0800000000000000
+      internalID: -3744842725403994215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario_foreground_atlas_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 45
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d0b06b8936833f0800000000000000
+      internalID: -920876616256909991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario_foreground_atlas_26
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 47
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090e9617bb5bec5d0800000000000000
+      internalID: -3040292881762230128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario_foreground_atlas_27
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 47
+        width: 52
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80cbff1c8a6734e20800000000000000
+      internalID: 3333638616365644808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario_foreground_atlas_28
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 48
+        width: 57
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6519bc28a6910b200800000000000000
+      internalID: 193682729228538198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario_foreground_atlas_29
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 48
+        width: 54
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4307ee37427df640800000000000000
+      internalID: 5115370402086323018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario_foreground_atlas_30
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 48
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11fb56d422fd3ed10800000000000000
+      internalID: 2153810385233624849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario_foreground_atlas_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 19
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b2bc837eebfbd20800000000000000
+      internalID: 3296563352558054221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario_foreground_atlas_32
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 20
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd2a7f88ad645980800000000000000
+      internalID: -8551089221740646945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario_foreground_atlas_33
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 21
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a1b2960961f83670800000000000000
+      internalID: 8518824128555430310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario_foreground_atlas_34
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 22
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae73d637eb4bb810800000000000000
+      internalID: 1782101533984521899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario_foreground_atlas_35
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 22
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3886c9d39bf6fce20800000000000000
+      internalID: 3373037487317084291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario_foreground_atlas_36
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 23
+        width: 40
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 616afcef4594c6810800000000000000
+      internalID: 1759862183796123158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario_foreground_atlas_37
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 24
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ce01d8803580820800000000000000
+      internalID: 2884646857522342978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario_foreground_atlas_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 52
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24146a78e0db4c8b0800000000000000
+      internalID: -5132769805192511166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario_foreground_atlas_39
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 3
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505b9fcf762a4c2f0800000000000000
+      internalID: -953458653586148091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario_foreground_atlas_40
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 4
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e72257587665770800000000000000
+      internalID: 8599174361404046981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cenario_foreground_atlas_0: 2453294794497684714
+      cenario_foreground_atlas_1: 5252666757394526173
+      cenario_foreground_atlas_10: -1009961171418851045
+      cenario_foreground_atlas_11: 4763918556228518591
+      cenario_foreground_atlas_12: -199716674205010170
+      cenario_foreground_atlas_13: 8264208118904309201
+      cenario_foreground_atlas_14: -2193507055035512490
+      cenario_foreground_atlas_15: 9086157976699575725
+      cenario_foreground_atlas_16: -6312675358213019115
+      cenario_foreground_atlas_17: 7309023640018746150
+      cenario_foreground_atlas_18: 1763017490435967426
+      cenario_foreground_atlas_19: -4811755822112085600
+      cenario_foreground_atlas_2: 4723653866708347032
+      cenario_foreground_atlas_20: -3011082441238558847
+      cenario_foreground_atlas_21: 1751463266890084700
+      cenario_foreground_atlas_22: 294200644615676535
+      cenario_foreground_atlas_23: -2892387030563839763
+      cenario_foreground_atlas_24: -3744842725403994215
+      cenario_foreground_atlas_25: -920876616256909991
+      cenario_foreground_atlas_26: -3040292881762230128
+      cenario_foreground_atlas_27: 3333638616365644808
+      cenario_foreground_atlas_28: 193682729228538198
+      cenario_foreground_atlas_29: 5115370402086323018
+      cenario_foreground_atlas_3: 3256199894313027952
+      cenario_foreground_atlas_30: 2153810385233624849
+      cenario_foreground_atlas_31: 3296563352558054221
+      cenario_foreground_atlas_32: -8551089221740646945
+      cenario_foreground_atlas_33: 8518824128555430310
+      cenario_foreground_atlas_34: 1782101533984521899
+      cenario_foreground_atlas_35: 3373037487317084291
+      cenario_foreground_atlas_36: 1759862183796123158
+      cenario_foreground_atlas_37: 2884646857522342978
+      cenario_foreground_atlas_38: -5132769805192511166
+      cenario_foreground_atlas_39: -953458653586148091
+      cenario_foreground_atlas_4: -4178744659266945535
+      cenario_foreground_atlas_40: 8599174361404046981
+      cenario_foreground_atlas_5: 3194859884958881897
+      cenario_foreground_atlas_6: -6619311370206496787
+      cenario_foreground_atlas_7: 1693764591135926069
+      cenario_foreground_atlas_8: 18056500011177845
+      cenario_foreground_atlas_9: -7375878560108952166
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
